@@ -1,0 +1,18 @@
+.pipe-wrapper {
+  position: relative;
+  .pipe-top {
+    width: 50px;
+    background-image: url('../../images/pipe-top.png');
+    position: absolute;
+    top: 0;
+    background-position: bottom;
+    transition: left 400ms;
+  }
+  .pipe-bottom {
+    width: 50px;
+    background-image: url('../../images/pipe-bottom.png');
+    position: absolute;
+    top: 300px;
+    transition: left 400ms;
+  }
+}

@@ -1,0 +1,8 @@
+.bird-wrapper {
+  width: 38px;
+  height: 26px;
+  background-image: url('../../images/bird.png');
+  position: absolute;
+  left: 120px;
+  transition: transform 300ms, top 300ms, bottom 300ms;
+}
