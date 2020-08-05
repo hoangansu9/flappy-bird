@@ -5,7 +5,6 @@ import Bird from "../Bird";
 import Foreground from "../Foreground";
 
 import { connect } from "react-redux";
-import pipe from "../../rerducers/pipe";
 
 let gameLoop;
 let pipeGenerator;

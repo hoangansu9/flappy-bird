@@ -1,6 +1,6 @@
 # JetBrains - Developer Tools for Professionals and Teams
 .idea/
-
+// eslint-disable-next-line
 # Visual Studio Code - Code Editing. Redefined
 .vscode/
 jsconfig.json
