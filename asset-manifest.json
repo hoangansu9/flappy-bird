@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hoangansu9/static/css/main.c5e8b18d.chunk.css",
-    "main.js": "/hoangansu9/static/js/main.837268c0.chunk.js",
-    "main.js.map": "/hoangansu9/static/js/main.837268c0.chunk.js.map",
-    "runtime-main.js": "/hoangansu9/static/js/runtime-main.991eb8c1.js",
-    "runtime-main.js.map": "/hoangansu9/static/js/runtime-main.991eb8c1.js.map",
-    "static/js/2.bed2c04f.chunk.js": "/hoangansu9/static/js/2.bed2c04f.chunk.js",
-    "static/js/2.bed2c04f.chunk.js.map": "/hoangansu9/static/js/2.bed2c04f.chunk.js.map",
-    "index.html": "/hoangansu9/index.html",
-    "precache-manifest.87835b5b72407f030a4d0ebf2ed2c020.js": "/hoangansu9/precache-manifest.87835b5b72407f030a4d0ebf2ed2c020.js",
-    "service-worker.js": "/hoangansu9/service-worker.js",
-    "static/css/main.c5e8b18d.chunk.css.map": "/hoangansu9/static/css/main.c5e8b18d.chunk.css.map",
-    "static/js/2.bed2c04f.chunk.js.LICENSE.txt": "/hoangansu9/static/js/2.bed2c04f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/hoangansu9/static/media/pipe-top.07cd2335.png"
+    "main.css": "/flappy-bird/static/css/main.2e14e1eb.chunk.css",
+    "main.js": "/flappy-bird/static/js/main.837268c0.chunk.js",
+    "main.js.map": "/flappy-bird/static/js/main.837268c0.chunk.js.map",
+    "runtime-main.js": "/flappy-bird/static/js/runtime-main.52d7bf52.js",
+    "runtime-main.js.map": "/flappy-bird/static/js/runtime-main.52d7bf52.js.map",
+    "static/js/2.bed2c04f.chunk.js": "/flappy-bird/static/js/2.bed2c04f.chunk.js",
+    "static/js/2.bed2c04f.chunk.js.map": "/flappy-bird/static/js/2.bed2c04f.chunk.js.map",
+    "index.html": "/flappy-bird/index.html",
+    "precache-manifest.d48458dfa7e7fec1e94c464e9bf5d9c5.js": "/flappy-bird/precache-manifest.d48458dfa7e7fec1e94c464e9bf5d9c5.js",
+    "service-worker.js": "/flappy-bird/service-worker.js",
+    "static/css/main.2e14e1eb.chunk.css.map": "/flappy-bird/static/css/main.2e14e1eb.chunk.css.map",
+    "static/js/2.bed2c04f.chunk.js.LICENSE.txt": "/flappy-bird/static/js/2.bed2c04f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/flappy-bird/static/media/pipe-top.07cd2335.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.991eb8c1.js",
+    "static/js/runtime-main.52d7bf52.js",
     "static/js/2.bed2c04f.chunk.js",
-    "static/css/main.c5e8b18d.chunk.css",
+    "static/css/main.2e14e1eb.chunk.css",
     "static/js/main.837268c0.chunk.js"
   ]
 }
