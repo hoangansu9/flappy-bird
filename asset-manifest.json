@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hoangansu9/flappy-bird/static/css/main.5e837cdf.chunk.css",
-    "main.js": "/hoangansu9/flappy-bird/static/js/main.ce931b7e.chunk.js",
-    "main.js.map": "/hoangansu9/flappy-bird/static/js/main.ce931b7e.chunk.js.map",
-    "runtime-main.js": "/hoangansu9/flappy-bird/static/js/runtime-main.53c5a16e.js",
-    "runtime-main.js.map": "/hoangansu9/flappy-bird/static/js/runtime-main.53c5a16e.js.map",
-    "static/js/2.bed2c04f.chunk.js": "/hoangansu9/flappy-bird/static/js/2.bed2c04f.chunk.js",
-    "static/js/2.bed2c04f.chunk.js.map": "/hoangansu9/flappy-bird/static/js/2.bed2c04f.chunk.js.map",
-    "index.html": "/hoangansu9/flappy-bird/index.html",
-    "precache-manifest.546cd7172799a10dba97e91c3449fc52.js": "/hoangansu9/flappy-bird/precache-manifest.546cd7172799a10dba97e91c3449fc52.js",
-    "service-worker.js": "/hoangansu9/flappy-bird/service-worker.js",
-    "static/css/main.5e837cdf.chunk.css.map": "/hoangansu9/flappy-bird/static/css/main.5e837cdf.chunk.css.map",
-    "static/js/2.bed2c04f.chunk.js.LICENSE.txt": "/hoangansu9/flappy-bird/static/js/2.bed2c04f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/hoangansu9/flappy-bird/static/media/pipe-top.07cd2335.png"
+    "main.css": "/static/css/main.01f187f7.chunk.css",
+    "main.js": "/static/js/main.837268c0.chunk.js",
+    "main.js.map": "/static/js/main.837268c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac8cf780.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac8cf780.js.map",
+    "static/js/2.bed2c04f.chunk.js": "/static/js/2.bed2c04f.chunk.js",
+    "static/js/2.bed2c04f.chunk.js.map": "/static/js/2.bed2c04f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dbdfbda70bff90df330a5834e90dc461.js": "/precache-manifest.dbdfbda70bff90df330a5834e90dc461.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.01f187f7.chunk.css.map": "/static/css/main.01f187f7.chunk.css.map",
+    "static/js/2.bed2c04f.chunk.js.LICENSE.txt": "/static/js/2.bed2c04f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/pipe-top.07cd2335.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.53c5a16e.js",
+    "static/js/runtime-main.ac8cf780.js",
     "static/js/2.bed2c04f.chunk.js",
-    "static/css/main.5e837cdf.chunk.css",
-    "static/js/main.ce931b7e.chunk.js"
+    "static/css/main.01f187f7.chunk.css",
+    "static/js/main.837268c0.chunk.js"
   ]
 }
